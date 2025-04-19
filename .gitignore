@@ -1,0 +1,7 @@
+.idea
+.env
+.venv
+src/subtitle_translator/utils/__pycache__/
+src/subtitle_translator/__pycache__/
+src/subtitle_translator/core/__pycache__/
+src/subtitle_translator/services/__pycache__/
