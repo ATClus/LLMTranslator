@@ -41,8 +41,8 @@ python src/main.py --input path/to/subtitles.srt --output path/to/output.srt --s
 Create a file in the project root with your API keys: `.env`
 ``` 
 # Translation API keys
-GOOGLE_TRANSLATE_API_KEY=your_google_api_key
-DEEPL_API_KEY=your_deepl_api_key
+LMSTUDIO_API_URL=your_api_url
+MODEL_ID=your_loaded_model_id
 ```
 ## Project Structure
 ``` 
